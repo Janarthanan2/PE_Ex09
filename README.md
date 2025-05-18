@@ -1,4 +1,4 @@
-## Ex no 9 - To explore and understand the various prompting techniques used for generating videos through AI models.
+# Ex no 9 - To explore and understand the various prompting techniques used for generating videos through AI models.
 
 ### Date: 08-05-25
 
@@ -61,6 +61,6 @@ This yielded more expressive visuals with additional environmental elements.
 ## Output:
 <img src="https://github.com/user-attachments/assets/004d1050-e7f1-48de-8fbd-a46f54b9621f" width=65%>
 
-## Result:
+# Result:
 
 The Prompt of the above task is executed successfully.
